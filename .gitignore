@@ -1,0 +1,14 @@
+# Secrets / credentials
+*.env
+*.key
+*.pem
+secrets/
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+# Large artifacts (keep out of git)
+*.ova
+*.vmdk
+*.qcow2
+*.pcap
