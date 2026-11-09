@@ -12,3 +12,6 @@ Thumbs.db
 *.vmdk
 *.qcow2
 *.pcap
+
+# GSD planning (local only)
+.planning/
